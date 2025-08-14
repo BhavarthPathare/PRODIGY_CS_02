@@ -1,8 +1,5 @@
-# PRODIGY_CS_02
 
-🖼 AES Image Encryptor – PRODIGY_CS_02
-A web-based tool built with Flask for PRODIGY_CS Task 2 that encrypts and decrypts images using AES-256 encryption. Supports multiple image formats and includes a hacker-themed UI with live decryption preview.
-2️⃣ PRODIGY_CS_02 – Image Encryption Tool
+#2️⃣ PRODIGY_CS_02 – Image Encryption Tool
 
 🖼️ A web-based tool that encrypts and decrypts image files using AES encryption. Supports multiple image formats and provides an instant preview of the decrypted image.
 
