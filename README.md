@@ -1,5 +1,5 @@
 
-#2️⃣ PRODIGY_CS_02 – Image Encryption Tool
+# PRODIGY_CS_02 – Image Encryption Tool
 
 🖼️ A web-based tool that encrypts and decrypts image files using AES encryption. Supports multiple image formats and provides an instant preview of the decrypted image.
 
@@ -14,7 +14,7 @@ Instant preview of decrypted images
 
 Stylish hacker-themed UI
 
-📂 Structure:
+## 📂 Structure:
 
 PRODIGY_CS_02/
 │<br>
