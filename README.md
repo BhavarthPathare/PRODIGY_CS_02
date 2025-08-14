@@ -1,33 +1,30 @@
+# PRODIGY_CS_02
+🖼️ Image Encryption & Decryption Tool – PRODIGY_CS_02  
+A web-based application built with Flask for PRODIGY_CS Task 2 that allows users to encrypt and decrypt image files using AES encryption. It provides a secure way to protect image data while offering an intuitive interface for ease of use.
 
-# 2️⃣ PRODIGY_CS_02 – Image Encryption Tool
+## 🛠 Tech Stack
+- Python  
+- Flask  
+- HTML, CSS  
+- PyCryptodome  
 
-🖼️ A web-based tool that encrypts and decrypts image files using AES encryption. Supports multiple image formats and provides an instant preview of the decrypted image.
+## 🚀 Features
+- AES standard encryption for images  
+- Perfect decryption with preview support  
+- Support for any image file type  
+- Simple and user-friendly interface  
 
-🔹 Tech Stack: Python, Flask, PyCryptodome, HTML, CSS
-🔹 Features:
+## 📂 Project Structure
+PRODIGY_CS_02/  
+│  
+├── static/  
+│   └── style.css         # Styling for the app  
+│  
+├── templates/  
+│   └── index.html        # HTML form and preview display  
+│  
+├── app.py                # Main Flask application  
+└── README.md             # Project description  
 
-- AES-based encryption & decryption
-
-- Works with JPG, PNG, and other formats
-
-- Instant preview of decrypted images
-
-- Stylish hacker-themed UI
-
-## 📂 Structure:
-
-
-PRODIGY_CS_02/
-│<br>
-├── static/<br>
-│ ├── encrypted/ # Stores encrypted images<br>
-│ ├── decrypted/ # Stores decrypted previews<br>
-│ └── style.css # Styling for the app<br>
-│<br>
-├── templates/<br>
-│ └── index.html # HTML form and result display<br>
-│<br>
-├── app.py # Main Flask application<br>
-└── README.md # Project description
-
-
+## ⚠️ Disclaimer
+This tool is for educational purposes only. Do not use it for encrypting sensitive or personal images without proper security practices.
